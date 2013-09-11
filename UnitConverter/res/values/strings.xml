@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unit Converter</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="str_weight">Weight</string>
+    <string name="str_length">Length</string>
+    <string name="str_temperature">Temperature</string>
+    <string name="condensedRoboto">sans-serif-condensed</string>
+    <string name="default_length">0.00</string>
+    <string name="equals">=</string>
+    <string-array name="lengths_array">
+        <item>miles</item>
+        <item>kilometers</item>
+    </string-array>
+    
+    <string-array name="weights_array">
+        <item>pounds</item>
+        <item>kilograms</item>
+    </string-array>
+    
+    <string-array name="temperatures_array">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+
+</resources>
